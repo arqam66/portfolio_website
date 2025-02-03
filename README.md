@@ -39,14 +39,3 @@ Welcome to my personal portfolio website! This is where I showcase my work, skil
    ```bash
    npm start
    ```
-4. **Deploy on Netlify**
-   - Push your code to GitHub
-   - Connect your repo to Netlify
-   - Deploy with a single click!
-
-## 🌟 Let's Connect
-- **LinkedIn:** [Your Profile](#)
-- **GitHub:** [Your Profile](#)
-- **Email:** youremail@example.com
-
-Enjoy browsing my portfolio! 😊
